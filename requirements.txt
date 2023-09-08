@@ -1,0 +1,22 @@
+# Speech Recognition
+SpeechRecognition==3.8.1
+
+# Word to Number Conversion
+word2number==1.1
+
+# Data Management
+pandas==1.3.3
+
+# Random Number Generation
+random2==1.0.1
+
+# Regular Expressions
+regex==2021.10.8
+
+# GPU Support (not  required)
+
+
+# Operating system
+Windows 10 or Above
+
+
